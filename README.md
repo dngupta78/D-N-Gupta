@@ -32,8 +32,11 @@ To analyze and develop custom modules for ERPNext. Understand user requirements 
 
 Note: This is an open source project you can find code and installation script for ERPNEXT through below link
 Installation Script
+
 wget https://raw.githubusercontent.com/dngupta78/swamedha/master/setup_frappe.sh
+
 Flat Sales App Code
+
 https://github.com/swamedh/flat_sales
 
 Project -3:
