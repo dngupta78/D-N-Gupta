@@ -1,5 +1,5 @@
 # D-N-Gupta
-My Portfolio about Python project 
+My Portfolio about projects
 
 Project-1 :  Natas/AskIt
 
@@ -29,3 +29,29 @@ ERPNext application was created to manage all business information in one applic
 Contribution:         
 	
 To analyze and develop custom modules for ERPNext. Understand user requirements and Translate into UI Form Design and Server side components. Work on enhancements and   Changes requested by Customer and perform Testing. Setup bench and Configure. Customize installation script. Integration with social media. Uses Google API’s .Study about application. Study and understand technical & functional specifications of the application. Customize Automation Shall Scripts for application 
+
+Note: This is an open source project you can find code and installation script for ERPNEXT through below link
+Installation Script
+wget https://raw.githubusercontent.com/dngupta78/swamedha/master/setup_frappe.sh
+Flat Sales App Code
+https://github.com/swamedh/flat_sales
+
+Project -3:
+Title		EVENT MANAGER 
+Client	Cyber infrastructure solution	
+Technology	Java , Servlet,  JSP, JDBC, Eclipse IDE, XML, Tomcat Server 7 MySQL 5.0 
+    	
+Synopsis	
+This project was to develop online shopping website for Mobile and other Accessories. The site was Created to display items and on selection place those items in a shopping cart. Provide checkout facility and Store customer information.
+
+Contribution:
+	
+Handling view level. 
+Integrate the controller with business logic. 
+Provide solution for bugs identified.
+Debugging the codes 
+Work on enhancement as per as customer requirement 
+Support for application 
+Handling functional responsibility 
+
+
