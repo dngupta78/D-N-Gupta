@@ -11,7 +11,7 @@ Database Migration from MySQL to MS-SQL. Customization of automated Data Populat
 Created batch script and Shale script to enable automated database backup. Code Debugging.
 JSON Encoder to get data from NLP engine Performing WASA Testing, Fortify Scan for code,
 
-Work Flow: In this proejct we are using "MontyLinua" lib for NLP. This lib can handel all text baesd processing logic, which usefull to develop a search engine based project. But this project is more about normal text based processing. It is about artical based processing logic.
+Work Flow: In this proejct we are using "MontyLinua" lib for NLP. This lib can handel all text baesd processing logic, which usefull to develop a search engine based project. But this project is more about normal text based processing. It is about artical based processing logic. We have another layer to make this product as AI tool to perform more specific task in the tearm of (Machine Learning)
 
 For Ex: In normal senario if you will search " How to Reset a password"
-You will get all the artical which are similar to this text. But here after processing of "MontyLingua" for NLP, again we have develop out own NLP Lib which will classify the data based on artical.  
+You will get all the artical which are similar to this text. But here after processing of "MontyLingua" for NLP, again we have develop our own NLP Lib which will classify the data based on artical.  
