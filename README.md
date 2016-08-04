@@ -1,7 +1,11 @@
 # D-N-Gupta
-My Portfolio 
+My Portfolio about Python project 
 
-Project :  Natas/AskIt
+Project-1 :  Natas/AskIt
+
+Synopsis:	
+
+End users who required assistance to resolve their issues were needed to contact Service Desk. The SD agent needs to understand the user’s query and provide the solution. In case the agent could not provide an instant solution, a ticket was to be raised to address the issue. It was a manual process. The goal of this project was to implement a self-help application called NatAs such a way that the application interacts with the user in natural human language, understands the user’s query and provide the solution. The application was required to be built-in Natural Language Processing engine and a user friendly web interface to interact. Development team was required to develop the NatAs application (Business Logic and Database). User will be accessing/launching the NatAs application’s web interface from the existing intranet portals by clicking a hyperlink provided in it. 
 
 Contribution:
 	
@@ -15,3 +19,13 @@ Work Flow: In this proejct we are using "MontyLinua" lib for NLP. This lib can h
 
 For Ex: In normal senario if you will search " How to Reset a password"
 You will get all the artical which are similar to this text. But here after processing of "MontyLingua" for NLP, again we have develop our own NLP Lib which will classify the data based on artical.  
+
+Project-2 : ERPNEXT
+
+Synopsis:
+
+ERPNext application was created to manage all business information in one application and use it to manage operations and take decisions based on data for example if you are running a small business that has a few employees, you understand that it's hard to manage the dynamic nature of doing businesses. You may are already be using a software like Accounting, and may be some more to manage your inventory and sales (or CRM). An ERP brings all of this together in one place. In this project we developed the application from scratch for managing resource planning for Real Estate Developer. This project was developed in Frappe Framework (a huge server side and client side framework). It has libraries and API for everything from authentication to reports, which develop Web application using Python and Maria DB. In ERPNEXT we have manage the all inventory related records. This module was aimed to handle the records related with PURCHASE INVOICE JOURNAL VOUCHER and SALES INVOICE. 
+
+Contribution:         
+	
+To analyze and develop custom modules for ERPNext. Understand user requirements and Translate into UI Form Design and Server side components. Work on enhancements and   Changes requested by Customer and perform Testing. Setup bench and Configure. Customize installation script. Integration with social media. Uses Google API’s .Study about application. Study and understand technical & functional specifications of the application. Customize Automation Shall Scripts for application 
